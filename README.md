@@ -5,3 +5,6 @@ for the option to opt-in standard deductions during calculations. This applicati
 only works for salaries that are more than $100,000, as the tax brackets below that
 become much more intricate. Most of the code is actually writing to the file that 
 ends up printing out all the calculations and tax info.
+
+taxCalculator is the class which does all the operations, and tax.cpp has the 
+main() function that creates the user interface.
